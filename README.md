@@ -21,6 +21,14 @@ itype ang mga sumusunod sa command:
 
 maari ka nang mag edit ng files.
 
+1.1 setting the remote
+
+baka di pa naka set ung origin so yea.
+
+itype and sumusunod na command:
+- git remote add origin URL
+	(same url as kanina)
+
 2. Making commits
  
 Pagkatapos mag edit ng files maari na itong ilagay sa
