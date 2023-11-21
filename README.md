@@ -1,6 +1,8 @@
 # git-tutorial
 pano mag github
 
+
+
 1. Getting a local copy
 
 Hello, and 'git-tutorial' ay tinatawag na repository (ata).
@@ -21,13 +23,17 @@ itype ang mga sumusunod sa command:
 
 maari ka nang mag edit ng files.
 
-1.1 setting the remote
+
+
+   1.1 setting the remote
 
 baka di pa naka set ung origin so yea.
 
 itype and sumusunod na command:
 - git remote add origin URL
 	(same url as kanina)
+
+
 
 2. Making commits
  
@@ -49,6 +55,8 @@ ang mga detalye, isave ito sa iclose ng text editor.
 
 nice.
 
+
+
 3. pushing to repository
 
 Para iupdate and repository, 
@@ -56,3 +64,11 @@ itype ang sumusunod na command:
 - git push origin main
 
 congrats
+
+
+________________________________________________________
+ATTENDANCE/CHALLENGE
+
+mag push ka ng txt file para maconfirm ang attendance
+
+filename: YOURNAME.txt
