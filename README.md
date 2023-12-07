@@ -61,7 +61,7 @@ nice.
 
 Para iupdate and repository, 
 itype ang sumusunod na command:
-- git push origin main
+- git push -u origin main
 
 congrats
 
